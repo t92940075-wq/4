@@ -11,7 +11,7 @@ void setup(){
   pinMode(green, OUTPUT);
   
 }
-void loop(){ซ้ํา
+void loop(){ ซ้ํา
 digitalWrite(red, HIGH);
  delay(15000);
 digitalWrite(red, LOW);
